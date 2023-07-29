@@ -1,4 +1,4 @@
-![cart page](https://github.com/ayasaid242000/Etsy_website_clone/assets/118894683/b36bba8a-2fe9-4cbd-9daa-7b655c395812)# Etsy_clone
+# Etsy_clone
  Interactive WooCommerce website using WordPress plugins and themes
 # Demo
 https://github.com/ayasaid242000/Etsy_clone/assets/118894683/c27fb0ab-d18b-461f-9d52-9ab052c615d5
